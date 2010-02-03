@@ -1,0 +1,1 @@
+Using a combination of an existing Active Directory infrastructure, open-source software, and bash script; maintains parity of all network users' profile directories on a central server independent of which OS they choose to log in with
